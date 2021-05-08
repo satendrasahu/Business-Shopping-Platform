@@ -1,0 +1,10 @@
+// mern back-end
+
+1) use here dotenv library for environment setup of project
+2) use app.use(express.json()) for middle ware
+3) create three folers
+    1) controller = for logic purpose;
+    2) routes = for path for pages;
+    3) models = for database schema;
+
+
